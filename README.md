@@ -1,14 +1,22 @@
 ![Android](/images/android.jpg)
 #### [Blog](http://serifgungor.com) | [YouTube](https://www.youtube.com/user/serifgungor) | [Email](mailto:contact@serifgungor.com)
 # Starting with Java SE
+- Java JDK - Eclipse IDE kurulumları
+- - [YouTube](https://www.youtube.com/watch?v=qKKKaZg1j_k)
 - Scanner nesnesi (Scanner)
+- - [Scanner nesnesi kullanımı - YouTube](https://www.youtube.com/watch?v=SjEcX6-xNxs)
 - Değişkenler (Variable)
+- - [Basit Veri Tipleri - YouTube](https://www.youtube.com/watch?v=sNbjzKam0xo)
 - if şartı (If statement)
+- - [Koşullu İşlem - YouTube](https://www.youtube.com/watch?v=UrrBLHAuR2s)
 - equals methodu
 - casting
 - switch/case
 - for döngüsü (for loop)
+- - [For döngüsü örnekleri 2 - YouTube](https://www.youtube.com/watch?v=8K3bfZHuiHY)
+- - [For döngüsü örnekleri 1 - YouTube](https://www.youtube.com/watch?v=yAaWC1lhaxs)
 - string methods
+- - [String metotları - YouTube](https://www.youtube.com/watch?v=SW6XHzWM5wY)
 - dateformat
 - arrays
 - operators
@@ -20,6 +28,8 @@
 - - Change file name
 - - Create file
 - - File methods
+- - [Dosya İşlemleri 1 - YouTube](https://www.youtube.com/watch?v=ORfAr2sfgpw)
+- - [Dosya İşlemleri 2 - YouTube](https://www.youtube.com/watch?v=0lbljOKZc8U)
 - Object Oriented Programming (OOP)
 - - Object Creating
 - - Encapsulation

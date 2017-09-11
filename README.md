@@ -22,6 +22,7 @@
 - operators
 - exception handling
 - random
+- - [Temel Java Sınıfları - YouTube](https://www.youtube.com/watch?v=YsQs56tOJVI)
 - Java I/O
 - - Read File
 - - Write File

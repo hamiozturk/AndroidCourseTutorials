@@ -12,6 +12,8 @@
 - equals methodu
 - casting
 - switch/case
+- Döngüler - loops
+- - [Döngüler - YouTube](https://www.youtube.com/watch?v=bnXsTb_K46Q)
 - for döngüsü (for loop)
 - - [For döngüsü örnekleri 2 - YouTube](https://www.youtube.com/watch?v=8K3bfZHuiHY)
 - - [For döngüsü örnekleri 1 - YouTube](https://www.youtube.com/watch?v=yAaWC1lhaxs)
@@ -19,8 +21,12 @@
 - - [String metotları - YouTube](https://www.youtube.com/watch?v=SW6XHzWM5wY)
 - dateformat
 - arrays
+- - [Dizi örnekleri - YouTube](https://www.youtube.com/watch?v=NMsRULG0eT8)
+- - [Dizi tanımlamaları - YouTube](https://www.youtube.com/watch?v=VodBLHuw6Ow)
 - operators
 - exception handling
+- - [Hata Yakalama - Youtube](https://www.youtube.com/watch?v=v_Wqp9D7vjw)
+- - [Hata Yakalama 2 - Youtube](https://www.youtube.com/watch?v=N7Vs7guj0Es)
 - random
 - - [Temel Java Sınıfları - YouTube](https://www.youtube.com/watch?v=YsQs56tOJVI)
 - Java I/O
@@ -45,6 +51,7 @@
 - Garbage Collector
 - Working With Packages
 - Thread/Multi Threading
+- - [Thread - YouTube](https://www.youtube.com/watch?v=DnsVohDM41s)
 
 # Starting with Android Studio
 - Layout Types

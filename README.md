@@ -155,7 +155,7 @@
 - [Java Tutorials - Tutorials Point](https://www.tutorialspoint.com/java/index.htm)
 
 # Android UI (User Interface/Kullanıcı Arayüzü) Design Tutorials
-- [Angga Risky](https://www.youtube.com/channel/UCG1aEPR4NO2Sd_mmJFimfQQ)
+- [YouTube - Angga Risky](https://www.youtube.com/channel/UCG1aEPR4NO2Sd_mmJFimfQQ)
 
 # Proje Önerileri
 Proje isimleri örnektir. Araştırmak ve geliştirmek istediğiniz projeyi, danışıp onay aldığınız takdirde hazırlayabilirsiniz.

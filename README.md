@@ -151,7 +151,10 @@
 - Lock Screen Notifications (Kilit Ekranı Bildirimleri)
 - Vibrate Pattern (Titreşim Kalıpları)
 
-# Android UI (User Interface/Kullanıcı Arayüzü) Ders Kanalları
+# Java/Android Tutorial Websites
+- [Java Tutorials - Tutorials Point](https://www.tutorialspoint.com/java/index.htm)
+
+# Android UI (User Interface/Kullanıcı Arayüzü) Design Tutorials
 - [Angga Risky](https://www.youtube.com/channel/UCG1aEPR4NO2Sd_mmJFimfQQ)
 
 # Proje Önerileri

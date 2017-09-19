@@ -151,6 +151,9 @@
 - Lock Screen Notifications (Kilit Ekranı Bildirimleri)
 - Vibrate Pattern (Titreşim Kalıpları)
 
+# Android UI (User Interface/Kullanıcı Arayüzü) Ders Kanalları
+- [Angga Risky](https://www.youtube.com/channel/UCG1aEPR4NO2Sd_mmJFimfQQ)
+
 # Proje Önerileri
 Proje isimleri örnektir. Araştırmak ve geliştirmek istediğiniz projeyi, danışıp onay aldığınız takdirde hazırlayabilirsiniz.
 - Online Sınav/Soru Sistemi

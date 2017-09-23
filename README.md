@@ -153,6 +153,7 @@
 
 # Java/Android Tutorial Websites
 - [Java Tutorials - Tutorials Point](https://www.tutorialspoint.com/java/index.htm)
+- [Java Tutorials - JavatPoint](https://www.javatpoint.com/fibonacci-series-in-java)
 
 # Android UI (User Interface/Kullanıcı Arayüzü) Design Tutorials
 - [YouTube - Angga Risky](https://www.youtube.com/channel/UCG1aEPR4NO2Sd_mmJFimfQQ)

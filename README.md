@@ -39,12 +39,20 @@
 - - [Dosya İşlemleri 2 - YouTube](https://www.youtube.com/watch?v=0lbljOKZc8U)
 - Object Oriented Programming (OOP)
 - - Object Creating
+- - - For example;
+- - - - Kedi kedi = new Kedi();
 - - Encapsulation
+- - - For example;
+- - - - Insan insan = new Insan();
+- - - - insan.setYas(20);
+- - - - System.out.println(insan.getYas());
 - - Extend
 - - Implements
 - - Polymorphism
 - - Super keyword
 - - this keyword
+- - - For example;
+- - - - this.age = age;
 - - Overriding
 - String Builder
 - ArrayLists

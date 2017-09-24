@@ -46,17 +46,18 @@
 - - - - Insan insan = new Insan();
 - - - - insan.setYas(20);
 - - - - System.out.println(insan.getYas());
-- - Extend
-- - Implements
+- - - this keyword
+- - -  - For example;
+- - - - - this.age = age;
+- - Inheritance
+- - - Extends keyword
+- - - Super keyword
+- - - Overriding
+- - Implements & Interface (Arayüz)
 - - Abstaction (Soyutlama)
 - - - [Okuyunuz](https://www.tutorialspoint.com/java/java_abstraction.htm)
 - - Polymorphism (Çok Biçimlilik)
 - - - [Okuyunuz](https://www.tutorialspoint.com/java/java_polymorphism.htm)
-- - Super keyword
-- - this keyword
-- - - For example;
-- - - - this.age = age;
-- - Overriding
 - String Builder
 - ArrayLists
 - Garbage Collector

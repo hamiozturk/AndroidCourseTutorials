@@ -1,5 +1,9 @@
 ![Android](/images/android.jpg)
 #### [Blog](http://serifgungor.com) | [YouTube](https://www.youtube.com/user/serifgungor) | [Email](mailto:contact@serifgungor.com)
+
+# # Haftasonu (32 günde Android öğrenin)
+# # Haftaiçi (48 günde Android öğrenin)
+
 # Starting with Java SE
 - Java JDK - Eclipse IDE kurulumları
 - - [YouTube](https://www.youtube.com/watch?v=qKKKaZg1j_k)

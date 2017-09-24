@@ -46,9 +46,12 @@
 - - - - Insan insan = new Insan();
 - - - - insan.setYas(20);
 - - - - System.out.println(insan.getYas());
-- - - this keyword
-- - -  - For example;
-- - - - - this.age = age;
+- - - Global fields (private)
+- - - Boş ve Dolu Constructor
+- - - Get ve Set Metotlar
+- - - - this keyword
+- - - - - For example;
+- - - - - - this.age = age;
 - - Inheritance
 - - - Extends keyword
 - - - Super keyword

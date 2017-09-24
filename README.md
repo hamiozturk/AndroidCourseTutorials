@@ -9,8 +9,7 @@
 - - [Basit Veri Tipleri - YouTube](https://www.youtube.com/watch?v=sNbjzKam0xo)
 - if şartı (If statement)
 - - [Koşullu İşlem - YouTube](https://www.youtube.com/watch?v=UrrBLHAuR2s)
-- equals methodu
-- casting
+- Bilinçli/Bilinçsiz Tür Dönüşümleri & Casting
 - switch/case
 - Döngüler - loops
 - - [Döngüler - YouTube](https://www.youtube.com/watch?v=bnXsTb_K46Q)
@@ -18,6 +17,7 @@
 - - [For döngüsü örnekleri 2 - YouTube](https://www.youtube.com/watch?v=8K3bfZHuiHY)
 - - [For döngüsü örnekleri 1 - YouTube](https://www.youtube.com/watch?v=yAaWC1lhaxs)
 - string methods
+- - equals methodu
 - - [String metotları - YouTube](https://www.youtube.com/watch?v=SW6XHzWM5wY)
 - dateformat
 - arrays

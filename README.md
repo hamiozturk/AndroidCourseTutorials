@@ -48,7 +48,10 @@
 - - - - System.out.println(insan.getYas());
 - - Extend
 - - Implements
-- - Polymorphism
+- - Abstaction (Soyutlama)
+- - - [Okuyunuz](https://www.tutorialspoint.com/java/java_abstraction.htm)
+- - Polymorphism (Çok Biçimlilik)
+- - - [Okuyunuz](https://www.tutorialspoint.com/java/java_polymorphism.htm)
 - - Super keyword
 - - this keyword
 - - - For example;

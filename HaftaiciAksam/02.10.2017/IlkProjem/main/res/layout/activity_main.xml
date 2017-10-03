@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.google.ilkprojem.MainActivity">
+
+
+    <Button
+        android:id="@+id/btnTikla"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Butona Tıkla"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="114dp" />
+
+    <EditText
+        android:id="@+id/etAd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/btnTikla"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="63dp"
+        android:ems="10"
+        android:hint="Adınızı girin"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/etSoyad"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="48dp"
+        android:ems="10"
+        android:hint="Soyadınızı giriniz"
+        android:inputType="textPersonName"
+        android:layout_below="@+id/etAd"
+        android:layout_alignStart="@+id/etAd" />
+
+    <EditText
+        android:id="@+id/etAdSoyad"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btnTikla"
+        android:layout_alignStart="@+id/etSoyad"
+        android:layout_marginBottom="40dp"
+        android:ems="10"
+        android:inputType="textPersonName" />
+
+
+</RelativeLayout>

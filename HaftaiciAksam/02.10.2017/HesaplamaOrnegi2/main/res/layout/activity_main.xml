@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.google.hesaplamaornegi.MainActivity">
+
+    <EditText
+        android:id="@+id/etSayi1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:ems="10"
+        android:hint="Sayı1"
+        android:inputType="number"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:id="@+id/etSayi2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:ems="10"
+        android:hint="Sayı2"
+        android:inputType="number"
+        android:layout_below="@+id/etSayi1"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:id="@+id/btnTopla"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/etSayi2"
+        android:layout_centerVertical="true"
+        android:text="Topla" />
+
+    <Button
+        android:id="@+id/btnCikar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/btnTopla"
+        android:layout_below="@+id/btnTopla"
+        android:layout_marginTop="29dp"
+        android:text="Çıkar" />
+
+    <Button
+        android:id="@+id/btnCarp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/btnCikar"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/btnCikar"
+        android:layout_marginTop="24dp"
+        android:text="Çarp" />
+
+    <Button
+        android:id="@+id/btnBol"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignStart="@+id/btnCarp"
+        android:layout_below="@+id/btnCarp"
+        android:layout_marginTop="16dp"
+        android:text="Böl" />
+
+    <EditText
+        android:id="@+id/etSonuc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Sonuc"
+        android:inputType="number"
+        android:layout_below="@+id/etSayi2"
+        android:layout_marginTop="18dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true" />
+</RelativeLayout>

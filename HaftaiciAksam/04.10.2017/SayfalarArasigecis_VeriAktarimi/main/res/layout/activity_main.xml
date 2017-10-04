@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.google.sayfalararasigecis_veriaktarimi.MainActivity">
+
+
+    <EditText
+        android:id="@+id/etAd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="122dp"
+        android:ems="10"
+        android:hint="Ad"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/etSoyad"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/etAd"
+        android:layout_below="@+id/etAd"
+        android:layout_marginTop="57dp"
+        android:ems="10"
+        android:hint="Soyad"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/btnGecis"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/etSoyad"
+        android:layout_alignStart="@+id/etSoyad"
+        android:layout_below="@+id/etSoyad"
+        android:layout_marginTop="64dp"
+        android:text="Diğer sayfaya geç" />
+</RelativeLayout>

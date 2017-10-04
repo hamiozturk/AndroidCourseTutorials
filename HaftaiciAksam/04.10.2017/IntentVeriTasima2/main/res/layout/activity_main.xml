@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.google.intentveritasima2.MainActivity">
+
+
+    <EditText
+        android:id="@+id/etIsim"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="74dp"
+        android:layout_marginTop="118dp"
+        android:ems="10"
+        android:hint="İsim"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/etYas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/etIsim"
+        android:layout_below="@+id/etIsim"
+        android:layout_marginTop="47dp"
+        android:ems="10"
+        android:hint="Yaş"
+        android:inputType="number" />
+
+    <Button
+        android:id="@+id/btnGecis"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/etYas"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="52dp"
+        android:text="Geçiş yap" />
+</RelativeLayout>

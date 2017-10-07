@@ -194,5 +194,6 @@ Proje isimleri örnektir. Araştırmak ve geliştirmek istediğiniz projeyi, dan
 - Student projects screenshots and If have, google play links.
 - [Google Play / Halil Aslan Kılıç (Acil Durum Butonu)](https://play.google.com/store/apps/details?id=com.halilaslan.acildurumbutonu&hl=tr)
 ![Android](/images/adb_haslanklc.jpg)
+- [Google Play / Murat Tekin (PWords)](https://play.google.com/store/apps/details?id=de.murattekinlive.pwords&hl=tr)
 
 > Bu millet ve memleket ilme ve irfana çok muhtaç; eğitim ve öğretim görmek için, ilim ve fen almak için Avrupa’ya, Amerika’ya ve her tarafa çocuklarımızı göndermeye mecburuz. İlim ve fen ve ihtisas nerede varsa, sanat nerede varsa gidip öğrenmeye mecburuz. Çok çalışmaya mecburuz. Çalışmak demek ise boşuna yorulmak terlemek değildir. Zamanın gereklerine göre bilim ve teknik ve her türlü medeni buluşlardan azami derecede yararlanmak zorunludur. - Mustafa Kemal Atatürk

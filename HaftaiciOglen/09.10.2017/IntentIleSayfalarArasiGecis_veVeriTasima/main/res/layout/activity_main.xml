@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.google.intentilesayfalararasigecis_veveritasima.MainActivity">
+
+
+    <EditText
+        android:id="@+id/etSayi1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="89dp"
+        android:ems="10"
+        android:hint="Sayı 1"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/etSayi2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/etSayi1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="61dp"
+        android:ems="10"
+        android:hint="Sayı 2"
+        android:inputType="number" />
+
+    <Button
+        android:id="@+id/btnIslem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/etSayi2"
+        android:layout_alignStart="@+id/etSayi2"
+        android:layout_below="@+id/etSayi2"
+        android:layout_marginTop="66dp"
+        android:text="Topla" />
+</RelativeLayout>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.google.intentornegi.DetayActivity">
+
+    <EditText
+        android:id="@+id/etIsim"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="60dp"
+        android:ems="10"
+        android:hint="Isim"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/etSoyisim"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/etIsim"
+        android:layout_below="@+id/etIsim"
+        android:layout_marginTop="68dp"
+        android:ems="10"
+        android:hint="Soyisim"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/etYasi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/etSoyisim"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="74dp"
+        android:ems="10"
+        android:hint="Yaş"
+        android:inputType="number" />
+</RelativeLayout>

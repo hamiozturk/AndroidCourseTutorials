@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.google.intentornegi.MainActivity">
+
+
+    <EditText
+        android:id="@+id/etAd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="42dp"
+        android:ems="10"
+        android:hint="Ad"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/etSoyad"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/etAd"
+        android:layout_below="@+id/etAd"
+        android:layout_marginTop="41dp"
+        android:ems="10"
+        android:hint="Soyad"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/etYas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/etSoyad"
+        android:layout_below="@+id/etSoyad"
+        android:layout_marginTop="47dp"
+        android:ems="10"
+        android:hint="Yaş"
+        android:inputType="number" />
+
+    <Button
+        android:id="@+id/btnGonder"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/etYas"
+        android:layout_alignStart="@+id/etYas"
+        android:layout_below="@+id/etYas"
+        android:layout_marginTop="56dp"
+        android:text="Değerleri Gönder" />
+</RelativeLayout>

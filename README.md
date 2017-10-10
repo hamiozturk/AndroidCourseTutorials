@@ -179,6 +179,9 @@
 # Android UI (User Interface/Kullanıcı Arayüzü) Design Tutorials
 - [YouTube - Angga Risky](https://www.youtube.com/channel/UCG1aEPR4NO2Sd_mmJFimfQQ)
 
+# Araştırma Notları
+- http://www.techieupgrader.in/2017/09/android-login-register-with-php-and.html
+
 # Proje Önerileri
 Proje isimleri örnektir. Araştırmak ve geliştirmek istediğiniz projeyi, danışıp onay aldığınız takdirde hazırlayabilirsiniz.
 - Online Sınav/Soru Sistemi

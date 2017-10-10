@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ulkeler">
+        <item name="tr">Türkiye Cumhuriyeti</item>
+        <item name="uk">United Kingdom</item>
+        <item name="us">United Stated of America</item>
+        <item name="jp">Japan</item>
+        <item name="es">Spain</item>
+    </string-array>
+</resources>

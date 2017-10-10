@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.google.aramasmsemailornegi.MainActivity">
+
+
+    <Button
+        android:id="@+id/btnAra"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="121dp"
+        android:text="Arama" />
+
+    <Button
+        android:id="@+id/btnSms"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="39dp"
+        android:text="SMS Gönder"
+        android:layout_below="@+id/btnAra"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/btnEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="Email Gönder"
+        android:layout_below="@+id/btnSms"
+        android:layout_alignStart="@+id/btnSms" />
+
+    <Button
+        android:id="@+id/btnRehber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="36dp"
+        android:text="Rehber"
+        android:layout_below="@+id/btnEmail"
+        android:layout_alignEnd="@+id/btnSms" />
+</RelativeLayout>

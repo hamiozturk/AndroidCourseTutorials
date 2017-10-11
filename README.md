@@ -1,8 +1,8 @@
 ![Android](/images/android.jpg)
 #### [Blog](http://serifgungor.com) | [YouTube](https://www.youtube.com/user/serifgungor) | [Email](mailto:contact@serifgungor.com)
 
-# ~ Haftasonu (32 günde Android öğrenin)
-# ~ Haftaiçi (48 günde Android öğrenin)
+# ~ Haftasonu (32 gün)
+# ~ Haftaiçi (48 gün)
 
 # Starting with Java SE
 - Java JDK - Eclipse IDE kurulumları
@@ -135,8 +135,8 @@
 - Custom ListView with Adapter
 - - [GeleceğiYazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android/egitim/android-301/listview-ozellestirme)
 - Fragment 
-- Tab Fragment usage
-- - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/151-android-tabfragment-kullanimi)
+- - Tab Fragment usage
+- - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/151-android-tabfragment-kullanimi)
 - Tab Activity
 - Android/ File create,write
 - Working with assets file

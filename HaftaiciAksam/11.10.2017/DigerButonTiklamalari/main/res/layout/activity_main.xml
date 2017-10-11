@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.google.digerbutontiklamalari.MainActivity">
+
+
+    <Button
+        android:id="@+id/btnNormalTiklama"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="76dp"
+        android:text="Normal Tıklama" />
+
+    <Button
+        android:id="@+id/btnDokunma"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/btnNormalTiklama"
+        android:layout_alignStart="@+id/btnNormalTiklama"
+        android:layout_below="@+id/btnNormalTiklama"
+        android:layout_marginTop="48dp"
+        android:text="Dokunma" />
+
+    <Button
+        android:id="@+id/btnUzunBasilma"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/btnDokunma"
+        android:layout_alignStart="@+id/btnDokunma"
+        android:layout_below="@+id/btnDokunma"
+        android:layout_marginTop="44dp"
+        android:text="Uzun basılma" />
+
+    <ToggleButton
+        android:id="@+id/toggleButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/btnUzunBasilma"
+        android:layout_alignStart="@+id/btnUzunBasilma"
+        android:layout_below="@+id/btnUzunBasilma"
+        android:layout_marginTop="39dp"
+        android:text="ToggleButton"
+        android:textOff="KAPALI"
+        android:textOn="AÇIK" />
+
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Switch"
+        android:layout_below="@+id/toggleButton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="37dp" />
+</RelativeLayout>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">KitapOzetleri</string>
+    
+    
+    <string-array name="turler">
+        <item>Tarihi</item>
+        <item>Macera</item>
+        <item>Yerli</item>
+        <item>Polisiye</item>
+        <item>Öykü/Hikaye</item>
+        <item>Macera</item>
+    </string-array>
+
+    <string-array name="diller">
+        <item>Türkçe</item>
+        <item>İngilizce</item>
+        <item>Fransızca</item>
+        <item>Farsça</item>
+        <item>Hintçe</item>
+    </string-array>
+    
+</resources>

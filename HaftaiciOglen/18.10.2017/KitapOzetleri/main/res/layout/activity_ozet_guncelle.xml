@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:layout_margin="20dp"
+tools:context="com.serifgungor.kitapozetleri.OzetGuncelleActivity">
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentStart="true"
+    android:layout_alignParentTop="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <EditText
+            android:id="@+id/etKitapAdiGuncelle"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"
+            android:hint="Kitap Adı" />
+
+        <EditText
+            android:id="@+id/etYazarAdSoyadGuncelle"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"
+            android:hint="Yazar Ad Soyad" />
+
+        <EditText
+            android:id="@+id/etResimGuncelle"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"
+            android:hint="Resim URL" />
+
+        <EditText
+            android:id="@+id/etYayinEviGuncelle"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"
+            android:hint="Yayın Evi" />
+
+        <Spinner
+            android:id="@+id/spTurGuncelle"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"
+            android:hint="Türü" />
+
+        <Spinner
+            android:id="@+id/spDilGuncelle"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"
+            android:hint="Dil" />
+
+        <EditText
+            android:id="@+id/etBasimTarihiGuncelle"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"
+            android:hint="Basım Tarihi" />
+
+        <EditText
+            android:id="@+id/etSayfaSayisiGuncelle"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"
+            android:hint="Sayfa Sayısını giriniz"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/etPuanGuncelle"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"
+            android:hint="Puanı giriniz"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/etOzetGuncelle"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"
+            android:hint="Özeti yazınız"
+            android:inputType="textMultiLine" />
+
+        <Button
+            android:id="@+id/btnOzetGuncelle"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Özeti Güncelle" />
+
+        <Button
+            android:id="@+id/btnOzetSil"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Özeti Sil" />
+
+    </LinearLayout>
+
+
+</ScrollView>
+</RelativeLayout>

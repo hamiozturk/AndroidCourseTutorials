@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="20dp"
+    tools:context="com.serifgungor.notdefteriuygulamasi.DetayActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/etGuncelleBaslik"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:ems="10"
+                android:hint="Başlık"
+                android:inputType="textPersonName" />
+
+            <EditText
+                android:id="@+id/etGuncelleTarih"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/etGuncelleBaslik"
+                android:layout_marginTop="19dp"
+                android:ems="10"
+                android:hint="Tarih"
+                android:inputType="date" />
+
+            <EditText
+                android:id="@+id/etGuncelleNot"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/etGuncelleTarih"
+                android:layout_marginTop="29dp"
+                android:ems="10"
+                android:hint="Notu giriniz"
+                android:inputType="textMultiLine" />
+
+            <Button
+                android:id="@+id/btnGuncelleDetay"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/etGuncelleNot"
+                android:layout_marginTop="31dp"
+                android:text="Güncelle" />
+        </LinearLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

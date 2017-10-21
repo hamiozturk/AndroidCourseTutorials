@@ -113,6 +113,8 @@
 - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/78-android-ile-ses-dosyasi-oynatma-ornegi)
 - ListView example
 - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/159-android-listview-kullanimi)
+- GridView & Custom GridView example
+- - https://www.raywenderlich.com/127544/android-gridview-getting-started
 - ScrollView example
 - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/61-android-ile-scrollview-kullanimi-ornegi)
 - AutoCompleteTextView with Adapter

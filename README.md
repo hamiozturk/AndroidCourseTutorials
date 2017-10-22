@@ -100,7 +100,7 @@
 - - open other Apps
 - - Open Android's Call, Sms, Email activity files
 - - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/56-android-ile-arama-yapma-kodu)
-- - -[Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/68-android-activityler-arasi-veri-gonderme)
+- - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/68-android-activityler-arasi-veri-gonderme)
 - - Splash Screen example
 - - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/62-android-ile-splash-screen-olusturma)
 - - Ken Burns Splash Screen Animation example

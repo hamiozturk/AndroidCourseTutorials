@@ -100,13 +100,13 @@
 - - open other Apps
 - - Open Android's Call, Sms, Email activity files
 - - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/56-android-ile-arama-yapma-kodu)
-- - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/68-android-activityler-arasi-veri-gonderme)
-- Splash Screen example
-- - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/62-android-ile-splash-screen-olusturma)
-- Ken Burns Splash Screen Animation example
-- Implicit Activity
-- - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/67-android-implicit-intent-ile-resim-paylasimi)
-- Explicit Activity
+- - -[Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/68-android-activityler-arasi-veri-gonderme)
+- - Splash Screen example
+- - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/62-android-ile-splash-screen-olusturma)
+- - Ken Burns Splash Screen Animation example
+- - Implicit Activity
+- - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/67-android-implicit-intent-ile-resim-paylasimi)
+- - Explicit Activity
 - Actionbar Usage and Customize
 - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/161-android-ile-actionbar-kullanimi-ve-toolbar-ozellestirme)
 - Other button click events

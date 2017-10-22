@@ -146,12 +146,12 @@
 - - Working with SQLite (External & Internal)
 - - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/133-android-ile-sqlite-database-kullanimi)
 
-- Background & Services
-- - AsyncTask
-- - - [GeleceğiYazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android/egitim/android-301/asynctask)
-- - Service Start and Stop
-- - Broadcast Receiver (Yayın Alıcılar)
-- - Content Provider (İçerik Sağlayıcılar)
+# Background & Services
+- AsyncTask
+- - [GeleceğiYazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android/egitim/android-301/asynctask)
+- Service Start and Stop
+- Broadcast Receiver (Yayın Alıcılar)
+- Content Provider (İçerik Sağlayıcılar)
 
 - Web Task & Web Services
 - - JSON Read/Parse
@@ -195,12 +195,13 @@
 
 
 
-- Examples
-- - Age calculation
-- - Body mass index app example
-- - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/106-android-ile-vucut-kitle-endeksi-hesaplama-ornegi)
-- - TextToSpeech
-- - Multi Language (Çoklu Dil Desteği) System
+Examples
+- Age calculation
+- Body mass index app example
+- - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/106-android-ile-vucut-kitle-endeksi-hesaplama-ornegi)
+- TextToSpeech
+- Multi Language (Çoklu Dil Desteği) System
+- Yemek Tarifleri App (SQLite)
 
 # Java/Android Tutorial Websites
 - [Java Tutorials - Tutorials Point](https://www.tutorialspoint.com/java/index.htm)

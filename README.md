@@ -97,6 +97,14 @@
 - - onBackPressed and AlertDialog
 - - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/66-android-ile-geri-butonuna-tiklanma-olayi)
 - - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/63-android-alertdialog-kullanimi)
+- - Working with WebView
+- - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/95-android-ile-webview-kullanimi)
+- - - [GeleceğiYazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android/egitim/android-301/webview-kullanimi)
+- - VideoView
+- - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/87-android-ile-videoview-kullanimi-ornegi)
+- - - [GeleceğiYazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android/egitim/android-301/androidde-video-oynatmak)
+- - Working with Linkify
+- - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/132-android-ile-linkify-kullanimi)
 - Listeners
 - - Anonymouse Button Click Handler
 
@@ -131,8 +139,14 @@
 - - AutoCompleteTextView with Adapter
 - - MultiAutoCompleteTextView with Adapter
 
+- SQLite Database Usage
+- - Working with SQLite (External & Internal)
+- - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/133-android-ile-sqlite-database-kullanimi)
 
-
+- Background & Services
+- - AsyncTask
+- - - [GeleceğiYazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android/egitim/android-301/asynctask)
+- - Service Start and Stop
 
 
 
@@ -155,19 +169,9 @@
 - Tab Activity
 - Android/ File create,write
 - Working with assets file
-- Working with WebView
-- - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/95-android-ile-webview-kullanimi)
-- - [GeleceğiYazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android/egitim/android-301/webview-kullanimi)
-- VideoView
-- - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/87-android-ile-videoview-kullanimi-ornegi)
-- - [GeleceğiYazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android/egitim/android-301/androidde-video-oynatmak)
-- Working with Linkify
-- - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/132-android-ile-linkify-kullanimi)
-- Working with SQLite (External & Internal)
-- - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/133-android-ile-sqlite-database-kullanimi)
-- AsyncTask
-- - [GeleceğiYazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android/egitim/android-301/asynctask)
-- Service Start and Stop
+
+
+
 - Building Notifications
 - Sending Sms with SmsManager
 - Sending Multi Sms with SmsManager & Thread

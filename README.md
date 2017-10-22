@@ -108,7 +108,6 @@
 - Listeners
 - - Anonymouse Button Click Handler
 
-
 # Working with Intent
 - startActivity
 - startActivityForResult
@@ -130,21 +129,21 @@
 - Menu example
 - Popup Menu example
 
-- Adapter Usage
-- - Spinner
-- - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/71-android-ile-spinner-kullanimi)
-- - ListView example
-- - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/159-android-listview-kullanimi)
-- - Custom ListView with Adapter
-- - - [GeleceğiYazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android/egitim/android-301/listview-ozellestirme)
-- - GridView & Custom GridView with Adapter example
-- - https://www.raywenderlich.com/127544/android-gridview-getting-started
-- - AutoCompleteTextView with Adapter
-- - MultiAutoCompleteTextView with Adapter
+# Adapter Usage
+- Spinner
+- - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/71-android-ile-spinner-kullanimi)
+- ListView example
+- - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/159-android-listview-kullanimi)
+- Custom ListView with Adapter
+- - [GeleceğiYazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android/egitim/android-301/listview-ozellestirme)
+- GridView & Custom GridView with Adapter example
+- https://www.raywenderlich.com/127544/android-gridview-getting-started
+- AutoCompleteTextView with Adapter
+- MultiAutoCompleteTextView with Adapter
 
-- SQLite Database Usage
-- - Working with SQLite (External & Internal)
-- - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/133-android-ile-sqlite-database-kullanimi)
+# SQLite Database Usage
+- Working with SQLite (External & Internal)
+- - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/133-android-ile-sqlite-database-kullanimi)
 
 # Background & Services
 - AsyncTask
@@ -153,16 +152,16 @@
 - Broadcast Receiver (Yayın Alıcılar)
 - Content Provider (İçerik Sağlayıcılar)
 
-- Web Task & Web Services
-- - JSON Read/Parse
-- - - [AndroidHive.info](http://www.androidhive.info/2012/01/android-json-parsing-tutorial/)
-- - Android Volley WebService
-- - - [YouTube](https://www.youtube.com/watch?v=QxffHgiJ64M&list=PLe60o7ed8E-TztoF2K3y4VdDgT6APZ0ka&index=1)
-- - Web Service(REST)
-- - - Retrofit
+# Web Task & Web Services
+- JSON Read/Parse
+- - [AndroidHive.info](http://www.androidhive.info/2012/01/android-json-parsing-tutorial/)
+- Android Volley WebService
+- - [YouTube](https://www.youtube.com/watch?v=QxffHgiJ64M&list=PLe60o7ed8E-TztoF2K3y4VdDgT6APZ0ka&index=1)
+- Web Service(REST)
+- - Retrofit
 
-- Working with Hardware
-- - Vibrate Pattern (Titreşim Kalıpları)
+# Using with Hardware Resources with Code
+- Vibrate Pattern (Titreşim Kalıpları)
 
 
 - Basic dictionary example

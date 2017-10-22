@@ -118,12 +118,19 @@
 - - https://www.raywenderlich.com/127544/android-gridview-getting-started
 - ScrollView example
 - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/61-android-ile-scrollview-kullanimi-ornegi)
-- AutoCompleteTextView with Adapter
-- MultiAutoCompleteTextView with Adapter
+
 - Random usage with Button click
 - Basic dictionary example
-- Spinner usage
-- - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/71-android-ile-spinner-kullanimi)
+
+- Adapter Usage
+- - Spinner
+- - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/71-android-ile-spinner-kullanimi)
+- - Custom ListView with Adapter
+- - - [GeleceğiYazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android/egitim/android-301/listview-ozellestirme)
+- - Custom GridView with Adapter
+- - AutoCompleteTextView with Adapter
+- - MultiAutoCompleteTextView with Adapter
+
 - Toast customize
 - Menu example
 - Popup Menu example
@@ -135,8 +142,7 @@
 - Shared Preferences
 - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/153-android-sharedpreference-kullanimi)
 - Preference Activity
-- Custom ListView with Adapter
-- - [GeleceğiYazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android/egitim/android-301/listview-ozellestirme)
+
 - Fragment 
 - - Tab Fragment usage
 - - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/151-android-tabfragment-kullanimi)

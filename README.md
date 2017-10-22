@@ -77,21 +77,30 @@
 - - Linear Layout
 - - Relative Layout
 - - Table Layout
-- Anonymouse Button Click Handler
-- Button OnClick
-- - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/150-android-setonclicklistener-kullanimi)
-- Calculate Example
+- Android Activity LifeCycle
 - SetContentView Mean
-- Toast usage
-- - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/57-android-ile-toast-message-kullanimi)
-- Android LifeCycle
-- Button OnClick with a XML Layout onClick method
-- List Type adding data
-- onBackPressed and AlertDialog
-- - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/66-android-ile-geri-butonuna-tiklanma-olayi)
-- - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/63-android-alertdialog-kullanimi)
-- EditText usage
-- Login example
+- Object Usage
+- - Button OnClick
+- - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/150-android-setonclicklistener-kullanimi)
+- - Calculate Example
+- - Button OnClick with a XML Layout onClick method
+- - EditText usage
+- - Toast usage
+- - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/57-android-ile-toast-message-kullanimi)
+- - Login example
+- - Other button click events
+- - Listen music
+- - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/78-android-ile-ses-dosyasi-oynatma-ornegi)
+- - ScrollView example
+- - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/61-android-ile-scrollview-kullanimi-ornegi)
+- - List Type adding data
+- - onBackPressed and AlertDialog
+- - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/66-android-ile-geri-butonuna-tiklanma-olayi)
+- - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/63-android-alertdialog-kullanimi)
+- Listeners
+- - Anonymouse Button Click Handler
+
+
 - Working with Intent
 - - startActivity
 - - startActivityForResult
@@ -109,28 +118,25 @@
 - - Explicit Activity
 - Actionbar Usage and Customize
 - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/161-android-ile-actionbar-kullanimi-ve-toolbar-ozellestirme)
-- Other button click events
-- Listen music
-- - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/78-android-ile-ses-dosyasi-oynatma-ornegi)
-- ListView example
-- - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/159-android-listview-kullanimi)
-- GridView & Custom GridView example
-- - https://www.raywenderlich.com/127544/android-gridview-getting-started
-- ScrollView example
-- - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/61-android-ile-scrollview-kullanimi-ornegi)
-
-- Random usage with Button click
-- Basic dictionary example
 
 - Adapter Usage
 - - Spinner
 - - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/71-android-ile-spinner-kullanimi)
+- - ListView example
+- - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/159-android-listview-kullanimi)
 - - Custom ListView with Adapter
 - - - [GeleceğiYazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android/egitim/android-301/listview-ozellestirme)
-- - Custom GridView with Adapter
+- - GridView & Custom GridView with Adapter example
+- - https://www.raywenderlich.com/127544/android-gridview-getting-started
 - - AutoCompleteTextView with Adapter
 - - MultiAutoCompleteTextView with Adapter
 
+
+
+
+
+
+- Basic dictionary example
 - Toast customize
 - Menu example
 - Popup Menu example

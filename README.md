@@ -195,13 +195,16 @@
 
 
 
-Examples
+# Examples
 - Age calculation
 - Body mass index app example
 - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/106-android-ile-vucut-kitle-endeksi-hesaplama-ornegi)
 - TextToSpeech
 - Multi Language (Çoklu Dil Desteği) System
 - Yemek Tarifleri App (SQLite)
+- Mp3 Player App
+- Kitap Özetleri App
+- Not Defteri App
 
 # Java/Android Tutorial Websites
 - [Java Tutorials - Tutorials Point](https://www.tutorialspoint.com/java/index.htm)

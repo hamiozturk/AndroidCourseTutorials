@@ -109,23 +109,26 @@
 - - Anonymouse Button Click Handler
 
 
-- Working with Intent
-- - startActivity
-- - startActivityForResult
-- - - [GitHub](https://gist.github.com/evandrix/7058235)
-- - putExtra
-- - open other Apps
-- - Open Android's Call, Sms, Email activity files
-- - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/56-android-ile-arama-yapma-kodu)
-- - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/68-android-activityler-arasi-veri-gonderme)
-- - Splash Screen example
-- - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/62-android-ile-splash-screen-olusturma)
-- - Ken Burns Splash Screen Animation example
-- - Implicit Activity
-- - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/67-android-implicit-intent-ile-resim-paylasimi)
-- - Explicit Activity
+# Working with Intent
+- startActivity
+- startActivityForResult
+- - [GitHub](https://gist.github.com/evandrix/7058235)
+- putExtra
+- open other Apps
+- Open Android's Call, Sms, Email activity files
+- - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/56-android-ile-arama-yapma-kodu)
+- - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/68-android-activityler-arasi-veri-gonderme)
+- Splash Screen example
+- - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/62-android-ile-splash-screen-olusturma)
+- Ken Burns Splash Screen Animation example
+- Implicit Activity
+- - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/67-android-implicit-intent-ile-resim-paylasimi)
+- Explicit Activity
 - Actionbar Usage and Customize
 - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/161-android-ile-actionbar-kullanimi-ve-toolbar-ozellestirme)
+- Toast customize
+- Menu example
+- Popup Menu example
 
 - Adapter Usage
 - - Spinner
@@ -147,13 +150,23 @@
 - - AsyncTask
 - - - [GeleceğiYazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android/egitim/android-301/asynctask)
 - - Service Start and Stop
+- - Broadcast Receiver (Yayın Alıcılar)
+- - Content Provider (İçerik Sağlayıcılar)
 
+- Web Task & Web Services
+- - JSON Read/Parse
+- - - [AndroidHive.info](http://www.androidhive.info/2012/01/android-json-parsing-tutorial/)
+- - Android Volley WebService
+- - - [YouTube](https://www.youtube.com/watch?v=QxffHgiJ64M&list=PLe60o7ed8E-TztoF2K3y4VdDgT6APZ0ka&index=1)
+- - Web Service(REST)
+- - - Retrofit
+
+- Working with Hardware
+- - Vibrate Pattern (Titreşim Kalıpları)
 
 
 - Basic dictionary example
-- Toast customize
-- Menu example
-- Popup Menu example
+
 - Wifi Manager
 - Bluetooth Adapter
 
@@ -173,25 +186,21 @@
 - Building Notifications
 - Sending Sms with SmsManager
 - Sending Multi Sms with SmsManager & Thread
-- JSON Read/Parse
-- - [AndroidHive.info](http://www.androidhive.info/2012/01/android-json-parsing-tutorial/)
-- Android Volley WebService
-- - [YouTube](https://www.youtube.com/watch?v=QxffHgiJ64M&list=PLe60o7ed8E-TztoF2K3y4VdDgT6APZ0ka&index=1)
-- TextToSpeech
-- Broadcast Receiver (Yayın Alıcılar)
-- Others
-- - Web Service(REST)
-- - - Retrofit
-- - Content Provider (İçerik Sağlayıcılar)
-- Multi Language (Çoklu Dil Desteği) System
 - Save Screenshot (Ekran Görüntüsü Kaydetme)
 - Lock Screen Notifications (Kilit Ekranı Bildirimleri)
-- Vibrate Pattern (Titreşim Kalıpları)
+
+
+
+
+
+
 
 - Examples
 - - Age calculation
 - - Body mass index app example
 - - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/106-android-ile-vucut-kitle-endeksi-hesaplama-ornegi)
+- - TextToSpeech
+- - Multi Language (Çoklu Dil Desteği) System
 
 # Java/Android Tutorial Websites
 - [Java Tutorials - Tutorials Point](https://www.tutorialspoint.com/java/index.htm)

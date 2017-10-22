@@ -156,9 +156,7 @@
 - Popup Menu example
 - Wifi Manager
 - Bluetooth Adapter
-- Age calculation
-- Body mass index app example
-- - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/106-android-ile-vucut-kitle-endeksi-hesaplama-ornegi)
+
 - Shared Preferences
 - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/153-android-sharedpreference-kullanimi)
 - Preference Activity
@@ -189,6 +187,11 @@
 - Save Screenshot (Ekran Görüntüsü Kaydetme)
 - Lock Screen Notifications (Kilit Ekranı Bildirimleri)
 - Vibrate Pattern (Titreşim Kalıpları)
+
+- Examples
+- - Age calculation
+- - Body mass index app example
+- - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/106-android-ile-vucut-kitle-endeksi-hesaplama-ornegi)
 
 # Java/Android Tutorial Websites
 - [Java Tutorials - Tutorials Point](https://www.tutorialspoint.com/java/index.htm)

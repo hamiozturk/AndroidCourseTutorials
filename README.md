@@ -103,6 +103,7 @@
 - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/68-android-activityler-arasi-veri-gonderme)
 - Splash Screen example
 - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/62-android-ile-splash-screen-olusturma)
+- Ken Burns Splash Screen Animation example
 - Implicit Activity
 - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/67-android-implicit-intent-ile-resim-paylasimi)
 - Explicit Activity
